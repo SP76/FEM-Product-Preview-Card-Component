@@ -112,7 +112,7 @@ body {
   margin-right: 8px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 660px) {
   .card {
     width: var(--card-width-mobile);
     height: calc(var(--card-width-mobile) * 1.75);
