@@ -136,7 +136,8 @@ body {
     padding: 10px 30px;
   }
 
-  .title {
+  .title,
+  .selling-price {
     font-size: 32px;
   }
 }
